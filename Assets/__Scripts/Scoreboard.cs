@@ -68,4 +68,4 @@ public class Scoreboard : MonoBehaviour
         fs.Init(pts);
         return (fs);
     }
-}
+}
